@@ -9,13 +9,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kWAYTV?tab=repositories](https://github.com/kWAYTV?tab=repositories)
 
-- 📝 I regularly write articles on [https://kwayservices.top/](https://kwayservices.top/)
-
-- 📫 How to reach me **kWAY#1701**
+- 🌐 My website [https://kwayservices.top/](https://kwayservices.top/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/kwaytv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kwaytv" height="30" width="40" /></a>
 <a href="https://discord.gg/kws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kws" height="30" width="40" /></a>
 </p>
 
