@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kWAY</h1>
-<h3 align="center">A learning dev from Spain</h3>
+<h3 align="center">A learning developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwaytv&label=Profile%20views&color=0e75b6&style=flat" alt="kwaytv" /> </p>
 
