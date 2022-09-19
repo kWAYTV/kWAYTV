@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my public projects are available [here](https://github.com/kWAYTV?tab=repositories)
 
-- 🌐 [My Website](https://kwayservices.top/)
+- 🌐 My website: [click here](https://kwayservices.top/)
 
 <h3 align="left">My Discord:</h3>
 <p align="left">
