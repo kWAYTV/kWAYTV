@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 All of my public projects are available at [https://github.com/kWAYTV?tab=repositories](https://github.com/kWAYTV?tab=repositories)
+- 👨‍💻 All of my public projects are available [here](https://github.com/kWAYTV?tab=repositories)
 
-- 🌐 My website [https://kwayservices.top/](https://kwayservices.top/)
+- 🌐 My website [My Website](https://kwayservices.top/)
 
 <h3 align="left">My Discord:</h3>
 <p align="left">
