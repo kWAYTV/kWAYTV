@@ -11,7 +11,7 @@
 
 - 🌐 My website: [click here](https://kwayservices.top/)
 
-<h3 align="left">My Discord:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://discord.gg/kws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kws" height="30" width="40" /></a>
 </p>
