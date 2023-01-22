@@ -26,6 +26,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kwaytv&" alt="kwaytv" /></p>
 
 <p align="center">
-  <img src="https://github.com/{{kWAYTV}}/{{kWAYTV}}/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/kWAYTV/kWAYTV/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
 
