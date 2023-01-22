@@ -5,11 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwaytv" alt="kwaytv" /></a> </p>
 
-- 🌱 I’m currently learning **python**
-
-- 👨‍💻 All of my public projects are available [here](https://github.com/kWAYTV?tab=repositories)
-
-- 🌐 My website: [click here](https://kwayservices.top/)
+<p align="center">- 🌱 I’m currently learning **python**</p>
+<p align="center">- 👨‍💻 All of my public projects are available [here](https://github.com/kWAYTV?tab=repositories)</p>
+<p align="center">- 🌐 My website: [click here](https://kwayservices.top/)</p>
 
 <h3 align="center">Contact with me:</h3>
 <p align="center">
@@ -21,4 +19,3 @@
 <p align="center">
   <img src="https://github.com/kWAYTV/kWAYTV/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
-
