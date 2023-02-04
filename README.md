@@ -11,8 +11,6 @@
 <a href="https://discord.gg/kws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kws" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwaytv" alt="kwaytv" /></a> </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kwaytv&show_icons=true&locale=en" alt="kwaytv">
 </p>
