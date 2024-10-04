@@ -3,7 +3,7 @@
 ### <div align="center">🚀 Learning Developer from Spain 🇪🇸</div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kwaytv&label=Profile%20views&color=0e75b6&style=flat-square" alt="kwaytv" width="200" height="28" />
+  <img src="https://komarev.com/ghpvc/?username=kwaytv&label=Profile%20views&color=0e75b6&style=flat-square" alt="kwaytv" />
   <a href="https://gitroll.io/profile/uezq54oxIk4VFZkLigfxGmGgm57z1" target="_blank">
     <img src="https://gitroll.io/api/badges/profiles/v1/uezq54oxIk4VFZkLigfxGmGgm57z1" alt="GitRoll Profile Badge" width="200" height="28" />
   </a>
