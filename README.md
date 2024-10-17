@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kwaytv&show_icons=true&theme=dark&hide_border=true&layout=compact&width=45%" alt="kWAY's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwaytv&theme=dark&hide_border=true&layout=compact&width=45%" alt="kWAY's GitHub Streak" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=kwaytv&show_icons=true&theme=dark&hide_border=true&layout=compact" width="48%" alt="kWAY's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwaytv&theme=dark&hide_border=true&layout=compact" width="48%" alt="kWAY's GitHub Streak" />
 </div>
