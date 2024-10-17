@@ -11,9 +11,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kwaytv&show_icons=true&theme=dark&hide_border=true" alt="kWAY's GitHub stats" />
 </div>
-
-<div align="center">
-  <a href="https://github.com/kWAYTV/dma-cheat-base">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kwaytv&repo=dma-cheat-base&theme=dark&hide_border=true" />
-  </a>
-</div>
