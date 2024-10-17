@@ -9,5 +9,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kwaytv&show_icons=true&theme=dark&hide_border=true" alt="kWAY's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kwaytv&show_icons=true&theme=dark&hide_border=true&layout=compact&width=45%" alt="kWAY's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwaytv&theme=dark&hide_border=true&layout=compact&width=45%" alt="kWAY's GitHub Streak" />
 </div>
